@@ -15,21 +15,23 @@ export default function Home() {
         </h1>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
-          </a>
-
-
+          
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Why .网? &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Click here for why we believe .网 is the next big thing!
             </p>
           </a>
+          
+          
+          <a href="https://nextjs.org/docs" className={styles.card}>
+            <h3>Terms & Conditions &rarr;</h3>
+            <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
+          </a>
+
         </div>
       </main>
 
