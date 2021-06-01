@@ -12,6 +12,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to .网
+          我们欢迎您来到.网
         </h1>
 
         <div className={styles.grid}>
