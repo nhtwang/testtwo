@@ -10,8 +10,6 @@ export default function WhyPost() {
         <h1 className={styles.title}>
           Why .网
         </h1>
-        <h2 className={styles.title}>
-          为什么 .网?
-        </h2>
+
   )
 }
