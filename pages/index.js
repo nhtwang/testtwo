@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.grid}>
           
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="/posts"
             className={styles.card}
           >
             <h3>Why .网? &rarr;</h3>
