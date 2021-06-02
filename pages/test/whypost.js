@@ -5,7 +5,7 @@ export default function WhyPost() {
         <title>Why .网?</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+ 
       <main className={styles.main}>
         <h1 className={styles.title}>
           Why .网
@@ -13,5 +13,5 @@ export default function WhyPost() {
         <h2 className={styles.title}>
           为什么 .网?
         </h2>
-)
+  )
 }
