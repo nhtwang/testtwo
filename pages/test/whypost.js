@@ -6,8 +6,7 @@ export default function WhyPost() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
  
-      <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1>
           Why .网
         </h1>
 
