@@ -13,4 +13,5 @@ export default function WhyPost() {
         <h2 className={styles.title}>
           为什么 .网?
         </h2>
+)
 }
