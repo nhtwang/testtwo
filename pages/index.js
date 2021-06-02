@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.grid}>
           
           <a
-            href="/test/whypost.js"
+            href="http://为什么.网.hns.to/"
             className={styles.card}
           >
             <h3>Why .网? &rarr;</h3>
@@ -30,7 +30,7 @@ export default function Home() {
           </a>
           
           
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="http://条件.网.hns.to/" className={styles.card}>
             <h3>Terms & Conditions &rarr;</h3>
             <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
           </a>
