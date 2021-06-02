@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.grid}>
           
           <a
-            href="/posts"
+            href="/test/post"
             className={styles.card}
           >
             <h3>Why .网? &rarr;</h3>
