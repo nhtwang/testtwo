@@ -1,5 +1,5 @@
 export default function WhyPost() {
-  return (
+  return 
     <div className={styles.container}>
       <Head>
         <title>Why .网?</title>
@@ -10,5 +10,5 @@ export default function WhyPost() {
           Why .网
         </h1>
 
-  )
+  
 }
