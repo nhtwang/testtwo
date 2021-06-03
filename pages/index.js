@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title} font color="blue">
+        <h1 className={styles.title} style="color :blue;">
           Welcome to .网
         </h1>
         <h2 className={styles.title}>
@@ -31,7 +31,7 @@ export default function Home() {
           
           
           <a href="http://条件.网.hns.to/" className={styles.card}>
-            <h3 style="color :blue">Terms & Conditions &rarr;</h3>
+            <h3 style="color :blue;">Terms & Conditions &rarr;</h3>
             <p style="color :blue;">Read the terms & conditions of becoming a registrant of .网 domains here!</p>
           </a>
 
