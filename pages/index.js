@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to .网
+          Welcome to .网 (UNDER CONSTRUCTION)
         </h1>
         <h2 className={styles.title}>
           我们欢迎您来到 .网
