@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title} style="color :blue;">
+        <h1 className={styles.title}>
           Welcome to .网
         </h1>
         <h2 className={styles.title}>
@@ -23,7 +23,7 @@ export default function Home() {
             href="http://为什么.网.hns.to/"
             className={styles.card}
           >
-            <h3 style="color :blue;">Why .网? &rarr;</h3>
+            <h3>Why .网? &rarr;</h3>
             <p style="color :blue;">
               Click here for why we believe .网 is the next big thing!
             </p>
@@ -31,7 +31,7 @@ export default function Home() {
           
           
           <a href="http://条件.网.hns.to/" className={styles.card}>
-            <h3 style="color :blue;">Terms & Conditions &rarr;</h3>
+            <h3>Terms & Conditions &rarr;</h3>
             <p style="color :blue;">Read the terms & conditions of becoming a registrant of .网 domains here!</p>
           </a>
 
