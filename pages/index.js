@@ -24,7 +24,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Why .网? &rarr;</h3>
-            <p style="color :blue;">
+            <p>
               Click here for why we believe .网 is the next big thing!
             </p>
           </a>
@@ -32,7 +32,7 @@ export default function Home() {
           
           <a href="http://条件.网.hns.to/" className={styles.card}>
             <h3>Terms & Conditions &rarr;</h3>
-            <p style="color :blue;">Read the terms & conditions of becoming a registrant of .网 domains here!</p>
+            <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
           </a>
 
         </div>
