@@ -23,16 +23,16 @@ export default function Home() {
             href="http://为什么.网.hns.to/"
             className={styles.card}
           >
-            <h3 font color="blue">Why .网? &rarr;</h3>
-            <p>
+            <h3 style="color :blue;">Why .网? &rarr;</h3>
+            <p style="color :blue;">
               Click here for why we believe .网 is the next big thing!
             </p>
           </a>
           
           
           <a href="http://条件.网.hns.to/" className={styles.card}>
-            <h3 font color="blue">Terms & Conditions &rarr;</h3>
-            <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
+            <h3 style="color :blue">Terms & Conditions &rarr;</h3>
+            <p style="color :blue;">Read the terms & conditions of becoming a registrant of .网 domains here!</p>
           </a>
 
         </div>
