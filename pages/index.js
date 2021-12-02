@@ -28,12 +28,6 @@ export default function Home() {
               Click here for why we believe .网 is the next big thing!
             </p>
           </a>
-          
-          
-          <a href="http://terms.网.hns.to/" className={styles.card}>
-            <h3>Terms & Conditions &rarr;</h3>
-            <p>Read the terms & conditions of becoming a registrant of .网 domains here!</p>
-          </a>
 
         </div>
       </main>
